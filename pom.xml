@@ -7,6 +7,7 @@
     <groupId>com.evgen</groupId>
     <artifactId>servlets-example</artifactId>
     <version>0.1</version>
+    <packaging>war</packaging>
 
 <dependencies>
       <dependency>
